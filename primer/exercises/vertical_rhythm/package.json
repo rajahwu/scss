@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch:css": "npx tailwindcss -i ./css/style.css -o ./css/bundle.css --watch"
+    "watch:css": "npx tailwindcss -i ./src/css/style.css -o ./src/css/bundle.css --watch"
   },
   "keywords": [],
   "author": "",

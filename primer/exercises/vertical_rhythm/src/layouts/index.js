@@ -1,6 +1,7 @@
 import BaseLayout from "./Base";
-
+import PageBody from "./PageBody"
 
 export {
-    BaseLayout
+    BaseLayout,
+    PageBody
 }

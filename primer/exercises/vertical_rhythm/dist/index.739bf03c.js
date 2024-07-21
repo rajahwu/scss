@@ -27430,15 +27430,41 @@ var _layouts = require("../../src/layouts");
 var _components = require("../../src/components");
 function HomePage() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _layouts.BaseLayout), {
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _components.Hgroup), {
-            heading: "h1",
-            title: "Home",
-            content: "App home page"
-        }, void 0, false, {
-            fileName: "pages/Home/index.jsx",
-            lineNumber: 7,
-            columnNumber: 5
-        }, this)
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
+            children: [
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _components.Hgroup), {
+                    heading: "h1",
+                    title: "Home",
+                    content: "App home page"
+                }, void 0, false, {
+                    fileName: "pages/Home/index.jsx",
+                    lineNumber: 8,
+                    columnNumber: 5
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _layouts.PageBody), {
+                    heading: "h1",
+                    title: "main page content",
+                    content: "All the pages stuff",
+                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                            children: "Sit dignissimos recusandae voluptatem ullam rem tempora sint vel repellat Vitae est nihil impedit rerum voluptatum Minima error labore at maxime labore sed. Quasi sunt ullam iusto modi perferendis debitis quasi Laudantium aliquid aspernatur rem similique mollitia suscipit Debitis excepturi exercitationem impedit praesentium minima!"
+                        }, void 0, false, {
+                            fileName: "pages/Home/index.jsx",
+                            lineNumber: 20,
+                            columnNumber: 13
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "pages/Home/index.jsx",
+                        lineNumber: 19,
+                        columnNumber: 9
+                    }, this)
+                }, void 0, false, {
+                    fileName: "pages/Home/index.jsx",
+                    lineNumber: 13,
+                    columnNumber: 5
+                }, this)
+            ]
+        }, void 0, true)
     }, void 0, false, {
         fileName: "pages/Home/index.jsx",
         lineNumber: 6,
@@ -27458,10 +27484,13 @@ $RefreshReg$(_c, "HomePage");
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "BaseLayout", ()=>(0, _baseDefault.default));
+parcelHelpers.export(exports, "PageBody", ()=>(0, _pageBodyDefault.default));
 var _base = require("./Base");
 var _baseDefault = parcelHelpers.interopDefault(_base);
+var _pageBody = require("./PageBody");
+var _pageBodyDefault = parcelHelpers.interopDefault(_pageBody);
 
-},{"./Base":"03amI","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"03amI":[function(require,module,exports) {
+},{"./Base":"03amI","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./PageBody":"dl259"}],"03amI":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$50fb = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27476,7 +27505,7 @@ var _components = require("../../components");
 function BaseLayout({ children }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "container",
-        className: "flex flex-col",
+        className: "flex flex-col border-black border-4 p-5 mx-auto mt-[10vh] w-[75vw] h-[65vh]",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _components.Header), {}, void 0, false, {
                 fileName: "src/layouts/Base/index.jsx",
@@ -27537,17 +27566,21 @@ parcelHelpers.export(exports, "default", ()=>Hgroup);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
-function Hgroup({ heading, title, content }) {
+function Hgroup({ heading, title, subtitle }) {
     const headingTag = heading;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hgroup", {
+        className: "h-24 border-black m-4 border-4",
         children: [
-            /*#__PURE__*/ (0, _reactDefault.default).createElement(heading, null, title),
-            content && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                children: content
+            /*#__PURE__*/ (0, _reactDefault.default).createElement(heading, {
+                className="title"
+            }, title),
+            subtitle && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                className: "subtitle",
+                children: subtitle
             }, void 0, false, {
                 fileName: "src/components/Hgroup/index.jsx",
                 lineNumber: 9,
-                columnNumber: 19
+                columnNumber: 20
             }, this)
         ]
     }, void 0, true, {
@@ -27578,7 +27611,7 @@ parcelHelpers.export(exports, "default", ()=>Header);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 function Header() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
-        className: "flex",
+        className: "flex border-b-4 border-black",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 children: "Logo"
@@ -27588,6 +27621,7 @@ function Header() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("nav", {
+                className: "p-4",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                     className: "flex",
                     children: [
@@ -27668,6 +27702,50 @@ $RefreshReg$(_c, "Footer");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["l9Mez","1xC6H","ebWYT"], "ebWYT", "parcelRequire5e28")
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"dl259":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$408e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$408e.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "default", ()=>PageBody);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _components = require("../../components");
+function PageBody({ heading, title, subtitle, children }) {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("article", {
+            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _components.Hgroup), {
+                heading: heading,
+                title: title,
+                subtitle: subtitle
+            }, void 0, false, {
+                fileName: "src/layouts/PageBody/index.jsx",
+                lineNumber: 7,
+                columnNumber: 13
+            }, this)
+        }, void 0, false, {
+            fileName: "src/layouts/PageBody/index.jsx",
+            lineNumber: 6,
+            columnNumber: 9
+        }, this)
+    }, void 0, false, {
+        fileName: "src/layouts/PageBody/index.jsx",
+        lineNumber: 5,
+        columnNumber: 9
+    }, this);
+}
+_c = PageBody;
+var _c;
+$RefreshReg$(_c, "PageBody");
+
+  $parcel$ReactRefreshHelpers$408e.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../components":"6nkmk"}]},["l9Mez","1xC6H","ebWYT"], "ebWYT", "parcelRequire5e28")
 
 //# sourceMappingURL=index.739bf03c.js.map

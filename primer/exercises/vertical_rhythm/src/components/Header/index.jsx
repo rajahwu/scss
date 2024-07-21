@@ -1,8 +1,8 @@
 export default function Header() {
   return (
-    <header className="flex">
+    <header className="flex border-b-4 border-black">
       <div>Logo</div>
-      <nav>
+      <nav className="p-4">
         <ul className="flex">
           <li>item 0</li>
           <li>item 1</li>

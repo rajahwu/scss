@@ -1,18 +1,19 @@
-8183
-93/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.f35b8e27.css.map1721526293563786281 0
-92/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.739bf03c.js.map1721526291503787047 0
-86/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/pages/Home/index.jsx1721526277923792495 0
-76/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/pages/Home1721515282097711923 1
+8186
+86/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/pages/Home/index.jsx1721529819462532326 0
+76/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/pages/Home1721529116152782017 1
 79/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/headings.html1721493476925140821 0
-81/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.html1721525831883952119 0
+92/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.739bf03c.js.map1721529905352501164 0
+81/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.html1721529904512501475 0
 89/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.4e6afc7f.css1721525831883952119 0
 88/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.3d214d75.js1721525831883952119 0
-84/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/tailwind.config.js1721525930793917858 0
-78/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/package.json1721521084015646786 0
-97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Header/index.jsx1721521579995469415 0
+93/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.f35b8e27.css.map1721529904932501317 0
+84/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/tailwind.config.js1721527473883369067 0
+78/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/package.json1721526871033577530 0
+83/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/App/index.jsx1721526228003809855 0
+97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Header/index.jsx1721527500213361168 0
 87/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Footer1721519865866076867 1
 82/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/Base1721518140616694290 1
-77/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts1721517437396940077 1
+77/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts1721528885472861747 1
 83/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/package-lock.json1721520290515926299 0
 100/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/resolve-from/index.js1721503650581518673 0
 99/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/resolve-from/license1721503650901518627 0
@@ -574,7 +575,7 @@
 91/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/browserslist1721503651141518593 1
 118/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@nodelib/fs.stat/out/providers/async.js1721520289405926684 0
 119/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@nodelib/fs.stat/out/providers/sync.d.ts1721520289625926608 0
-89/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.f35b8e27.css1721526293563786281 0
+89/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.f35b8e27.css1721529904932501317 0
 109/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@nodelib/fs.stat/out/providers1721520289615926611 1
 116/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/caniuse-lite/data/features/streams.js1721503653821518102 0
 114/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@nodelib/fs.stat/out/types/index.js1721520289545926636 0
@@ -694,7 +695,7 @@
 109/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/lib/corePlugins.js1721520289845926532 0
 108/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/defaultTheme.d.ts1721520290145926427 0
 116/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/scripts/generate-types.js1721520289925926504 0
-92/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/Base/index.jsx1721521316325550419 0
+92/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/Base/index.jsx1721527293643429682 0
 112/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/scripts/type-utils.js1721520290125926434 0
 98/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/LICENSE1721520289585926622 0
 103/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/package.json1721520290135926431 0
@@ -1449,7 +1450,7 @@
 113/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/ts-interface-checker/dist/index.js1721520289495926653 0
 113/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/ts-interface-checker/dist/types.js1721520289545926636 0
 115/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/ts-interface-checker/dist/types.d.ts1721520289525926643 0
-70/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist1721525831893952116 1
+70/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist1721529905352501164 1
 104/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/ts-interface-checker/dist1721520289555926632 1
 128/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/dom-serializer/node_modules/entities/lib/index.js1721503651041518607 0
 95/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/dotenv/config.js1721503650981518615 0
@@ -1517,6 +1518,7 @@
 125/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/index.d.ts1721503652181518444 0
 125/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/filters.js1721503651191518585 0
 127/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/filters.d.ts1721503652181518444 0
+86/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/PageBody1721527837103237191 1
 131/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/filters.d.ts.map1721503651941518475 0
 125/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/pseudos.js1721503651721518510 0
 125/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/aliases.js1721503650991518613 0
@@ -1618,7 +1620,7 @@
 130/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/node_modules/entities/lib/index.d.ts.map1721503652141518450 0
 131/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/node_modules/entities/lib/encode.d.ts.map1721503652121518452 0
 137/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/node_modules/entities/lib/decode_codepoint.d.ts1721503652151518448 0
-88/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.739bf03c.js1721526291493787051 0
+88/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/dist/index.739bf03c.js1721529905352501164 0
 108/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@nodelib/fs.stat/out/index.js1721520289525926643 0
 127/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/node_modules/entities/lib/encode.d.ts1721503652171518445 0
 115/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/caniuse-lite/data/features/webusb.js1721503653881518080 0
@@ -1872,6 +1874,7 @@
 97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/entities/readme.md1721503651161518589 0
 111/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/entities/lib/decode_codepoint.js1721503646921519195 0
 96/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/entities/lib/maps1721503651081518601 1
+96/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/PageBody/index.jsx1721529900402503007 0
 128/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/foreground-child/dist/commonjs/all-signals.js.map1721520289605926616 0
 106/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/entities/lib/index.d.ts.map1721503651161518589 0
 110/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/htmlnano/lib/modules/custom.cjs1721503651091518600 0
@@ -3093,7 +3096,7 @@
 114/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-tree/cjs/syntax/node/String.cjs1721503653481518229 0
 132/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/react-dom/cjs/react-dom-server.node.production.min.js1721504328031278773 0
 135/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/csso/node_modules/css-tree/lib/syntax/node/WhiteSpace.js1721503653691518150 0
-69/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src1721525969803904557 1
+69/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src1721526140243844210 1
 111/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@isaacs/cliui/build/lib/index.js1721520289445926671 0
 90/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/signal-exit1721520289685926588 1
 102/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/workers/src/web1721503651941518475 1
@@ -4436,7 +4439,7 @@
 110/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-tree/lib/syntax/node/Raw.js1721503653641518169 0
 127/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-select/lib/esm/pseudo-selectors/pseudos.d.ts1721503652191518443 0
 126/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@jridgewell/sourcemap-codec/dist/types/vlq.d.ts1721520289605926616 0
-65/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm1721525976283902309 1
+65/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm1721526140243844210 1
 111/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/resolve/test/resolver/other_path1721520289935926500 1
 122/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/type-fest/source/union-to-intersection.d.ts1721503651821518495 0
 122/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/src/util/transformThemeValue.js1721520290125926434 0
@@ -5334,7 +5337,7 @@
 117/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/chrome-trace-event/dist/trace-event.js1721503650581518673 0
 104/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/core/src/index.js1721503653451518239 0
 90/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/mz/index.js1721520289485926657 0
-97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Footer/index.jsx1721520112955988676 0
+97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Footer/index.jsx1721528092713140499 0
 111/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-tree/cjs/syntax/node/Url.cjs1721503653501518221 0
 119/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/css-tree/cjs/syntax/node/Parentheses.cjs1721503653451518239 0
 119/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/tailwindcss/src/util/configurePlugins.js1721520289815926542 0
@@ -5603,7 +5606,7 @@
 111/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/profiler/lib/Tracer.d.ts1721503651201518584 0
 135/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/package-manager/test/fixtures/empty/package.json1721503652351518419 0
 103/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/safe-buffer/package.json1721503650901518627 0
-84/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/css/bundle.css1721521317525549846 0
+84/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/css/bundle.css1721558790882196552 0
 97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/env-paths/index.js1721503650221518724 0
 140/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed1721503652351518419 1
 85/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/semver1721503651941518475 1
@@ -5633,7 +5636,7 @@
 96/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/codeframe1721503652361518418 1
 150/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/structure.js1721503653501518221 0
 163/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts.map1721503651221518580 0
-97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Hgroup/index.jsx1721519552816189374 0
+97/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components/Hgroup/index.jsx1721529396622681060 0
 112/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/signal-exit/dist/mjs/signals.d.ts1721520289685926588 0
 123/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/source-map/parcel_sourcemap_node/src1721503652351518419 1
 100/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/codeframe/src1721503652351518419 1
@@ -6210,7 +6213,7 @@
 122/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/caniuse-lite/data/features/trusted-types.js1721503653861518087 0
 83/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/svgo1721503652371518417 1
 153/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/MediaQuery.js1721503653461518236 0
-80/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components1721519857766079867 1
+80/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/components1721528885472861747 1
 113/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/yaml/dist/compose/resolve-props.js1721520289965926490 0
 108/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/utils/src/Deferred.js1721503651231518579 0
 153/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Combinator.js1721503651741518507 0
@@ -7053,7 +7056,7 @@
 155/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc/lib/detect-libc.js1721503650981518615 0
 107/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/events/lib/errors.js1721503651051518605 0
 106/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/events/lib/index.js1721503651081518601 0
-86/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/index.js1721517464246928059 0
+86/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/src/layouts/index.js1721529558862626365 0
 119/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/@parcel/events/test/ValueEmitter.test.js1721503651151518591 0
 121/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/csso/node_modules/css-tree/dist/version.js1721503653691518150 0
 131/var/www/html/apps/Training/sass/primer/exercises/vertical_rhythm/node_modules/lmdb/node_modules/node-addon-api/tools/check-napi.js1721503651251518577 0
