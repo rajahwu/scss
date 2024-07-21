@@ -1,5 +1,5 @@
-import  { BaseLayout } from "../../layouts";
-import { Hgroup } from "../../components";
+import  { BaseLayout } from "../../src/layouts";
+import { Hgroup } from "../../src/components";
 
 export default function HomePage() {
  return (
